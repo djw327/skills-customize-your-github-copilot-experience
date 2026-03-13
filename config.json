@@ -57,6 +57,7 @@
           "file": "data.csv",
           "type": "csv"
         }
+      ]
     },
     {
       "id": "fastapi-rest-apis",
